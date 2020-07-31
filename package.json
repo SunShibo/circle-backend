@@ -17,7 +17,7 @@
     "core-js": "^2.6.5",
     "echarts": "^4.5.0",
     "element-ui": "^2.4.11",
-    "npm": "^6.11.2",
+    "npm": "^6.14.6",
     "vue": "^2.6.10",
     "vue-quill-editor": "^3.0.6",
     "vue-router": "^3.0.3",
